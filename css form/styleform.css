@@ -1,0 +1,15 @@
+form {
+width: 015%;
+border:1px solid rgb(26, 53, 207);
+margin: 50px;
+padding: 50px;
+font-family: 'Zen Loop', cursive;
+font-size: larger;
+}
+label {
+    font-size: 20px;
+    display:block;
+    width: 100%;
+    
+    }
+    
